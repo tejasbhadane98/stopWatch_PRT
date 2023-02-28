@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+.all-content{
+    text-align: center;
+    background-color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 200px;
+    border-radius: 20px;
+}
+.sub-content{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    background-color: white;
+    
+}
+.btn{
+    
+    /* gap: 20px; */
+    /* border: 2px ; */
+    padding: 5px 10px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+#start{
+    color: green;
+    border: 1px solid green;
+}
+
+#pause{
+    color: red;
+    border: 1px solid red;
+}
+#reset{
+    color: rgba(248, 248, 14, 0.952);
+    border: 1px solid rgb(243, 243, 14);
+}
+#cast{
+    color:black;
+    border: 1px solid black;
+}
+
